@@ -8,14 +8,14 @@ Este projeto é a interface front-end desenvolvida durante o **NLW (Next Level W
 
 ## 🚀 Tecnologias Utilizadas
  
-  ![Vite](https://img.shields.io/badge/Vite-123?style=for-the-badge&logo=Vite&logoColor=green)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
- ![Biome](https://img.shields.io/badge/Biome-000320?style=for-the-badge&logo=Biome&logoColor=blue)
- ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Radiz_UI](https://img.shields.io/badge/Radiz_UI-000009?style=for-the-badge&logo=radixUI&logoColor=white)
- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
- ![Tailwind_CSS](https://img.shields.io/badge/Tanstack_query-38B?style=for-the-badge&logo=tanstack_query&logoColor=white)
+  - ![Vite](https://img.shields.io/badge/Vite-123?style=for-the-badge&logo=Vite&logoColor=green)
+  - ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  - ![Biome](https://img.shields.io/badge/Biome-000320?style=for-the-badge&logo=Biome&logoColor=blue)
+  - ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  - ![Radiz_UI](https://img.shields.io/badge/Radiz_UI-000009?style=for-the-badge&logo=radixUI&logoColor=white)
+  - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  - ![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  - ![Tailwind_CSS](https://img.shields.io/badge/Tanstack_query-38B?style=for-the-badge&logo=tanstack_query&logoColor=white)
 
 
 
@@ -55,9 +55,9 @@ npm run dev
 
 ## 🔗 Contato 
 
-[![linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-martinez-352032222/)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:juniorjose1925@gmail.com)
-[![portfolio](https://img.shields.io/badge/Jose.Dev-0A0A03?style=for-the-badge&logo=react&logoColor=whit)](https://my-portfolio-jose-martinez.netlify.app/)
+- [![linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-martinez-352032222/)
+- [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:juniorjose1925@gmail.com)
+- [![portfolio](https://img.shields.io/badge/Jose.Dev-0A0A03?style=for-the-badge&logo=react&logoColor=whit)](https://my-portfolio-jose-martinez.netlify.app/)
 
 
 ## 📄 Licença
