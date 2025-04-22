@@ -49,6 +49,9 @@ npm run dev
 ![github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)
 
 
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/design/msA62vbUCz8ZEaj39YIOpO/NLW-Pocket-JS-%E2%80%A2-in.orbit--Community-?node-id=2001-2&p=f&t=mCWBiy7MHcAH3CPI-0) É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## 💻 Sobre mim 😄
  Entusiasta da programação e estudante de Engenharia de Software com foco em        desenvolvimento front-end rumo ao full stack. Dedicado a criar experiências digitais inovadoras que impactam o mundo através da tecnologia.
